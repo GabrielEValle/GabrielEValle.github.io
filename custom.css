@@ -1,0 +1,57 @@
+#gevalle code  (change the colors)
+body{
+padding:15px;
+margin:18px;
+background-color:#000;
+color: #fff;
+}
+
+html{
+ font-family:sans-serif;  font-size: 18px;
+}
+
+ body{margin:0;
+ background-color:#000;
+ color:#fff;
+ }
+ 
+pre{
+ font-family:sans-serif;
+	font-size:18px;
+	background-color:#000;
+	color:#fff;
+}
+
+a.slink {
+display:inline-block;
+font-family:sans-serif;
+font-size: 18px;
+background-color:#000;
+color:#fff;
+}
+
+a.slink:hover {
+display:inline-block;
+font-family:sans-serif;
+font-size: 18px;
+background-color:#white;
+color:#fff;
+}
+
+a.menu{
+display:inline-block;
+font-family:sans-serif
+font-size: 18px;
+background-color:#000;
+color:#fff;
+border-style: solid;
+border-color: black;
+padding: 5px 5px 5px 5px;
+border-width: 5px 5px 5px 5px;
+
+}
+
+a.menu:hover {
+font-family:sans-serif;
+ color:#white;
+}
